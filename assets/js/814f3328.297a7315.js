@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkairsdk_dev=self.webpackChunkairsdk_dev||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Community and Showcase Sections","permalink":"/news/2021/10/14/new-additions"},{"title":"Welcome","permalink":"/news/welcome"}]}')}}]);
